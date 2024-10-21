@@ -8,7 +8,7 @@ Here's a straightforward guide on how to use the **NetwatchDog** tool:
 2. **Clone or Download the Repository**:
    - If you have Git installed, you can clone the repository using:
      ```bash
-     git clone https://github.com/yourusername/NetwatchDog.git
+     git clone https://github.com/Daddybreezyvr/NetwatchDog.git
      ```
    - Alternatively, you can download the ZIP file of the repository from GitHub and extract it.
 
